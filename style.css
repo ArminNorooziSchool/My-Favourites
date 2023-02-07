@@ -1,0 +1,30 @@
+html {
+  background: url("img/sky.jpg") rgb(255, 215, 104) no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 25px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 10px 50px 50px;
+  letter-spacing: 2px;
+}
+
+hr {
+  color: black;
+}
+
+p {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 50px;
+}
+
+hr {
+  margin-bottom: 50px;
+}
